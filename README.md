@@ -1,22 +1,22 @@
-# Welcome to your MindSet project
+# Welcome to your MindNext project
 
 ## Project info
 
-**URL**: https://MindSet.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558
+**URL**: https://MindNext.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use MindSet**
+**Use MindNext**
 
-Simply visit the [MindSet Project](https://MindSet.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558) and start prompting.
+Simply visit the [MindNext Project](https://MindNext.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558) and start prompting.
 
-Changes made via MindSet will be committed automatically to this repo.
+Changes made via MindNext will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in MindSet.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in MindNext.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -24,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/Anchitjain385/mindset?tab=readme-ov-file
+git clone https://github.com/Anchitjain385/MindNext?tab=readme-ov-file
 
 # Step 2: Navigate to the project directory.
-cd MindSet
+cd MindNext
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -97,10 +97,10 @@ This project is built with:
 - Tailwind CSS
 .
 
-## Can I connect a custom domain to my MindSet project?
+## Can I connect a custom domain to my MindNext project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.MindSet.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.MindNext.dev/tips-tricks/custom-domain#step-by-step-guide)
