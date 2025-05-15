@@ -1,22 +1,22 @@
-# Welcome to your MindNext project
+# Welcome to your MindNest project
 
 ## Project info
 
-**URL**: https://MindNext.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558
+**URL**: https://MindNest.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use MindNext**
+**Use MindNest**
 
-Simply visit the [MindNext Project](https://MindNext.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558) and start prompting.
+Simply visit the [MindNest Project](https://MindNest.dev/projects/32b25fc0-704f-458f-89f8-40e83a8e1558) and start prompting.
 
-Changes made via MindNext will be committed automatically to this repo.
+Changes made via MindNest will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in MindNext.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in MindNest.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -24,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/Anchitjain385/MindNext?tab=readme-ov-file
+git clone https://github.com/Anchitjain385/MindNest?tab=readme-ov-file
 
 # Step 2: Navigate to the project directory.
-cd MindNext
+cd MindNest
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -83,8 +83,8 @@ Economic: Cuts productivity losses and therapy costs
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-**Demo link of our project**
-- https://youtu.be/7k0yIKD078k
+**Demo link of our project** 
+
 
 ## What technologies are used for this project?
 
@@ -97,10 +97,10 @@ This project is built with:
 - Tailwind CSS
 .
 
-## Can I connect a custom domain to my MindNext project?
+## Can I connect a custom domain to my MindNest project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.MindNext.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.MindNest.dev/tips-tricks/custom-domain#step-by-step-guide)
